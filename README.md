@@ -1,3 +1,7 @@
+# Equipe
+
+Alunos: Pedro Lucas Luckow, João Pedro Medeiros e Guilherme Amorim Phillipps
+
 # Logar
 
 Para efetuar o login com sucesso, digite "a" para usuário e "a" para senha.
